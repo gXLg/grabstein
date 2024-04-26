@@ -8,7 +8,7 @@ cat <<EOF > "$1/README.md"
 | _ | _  | _ - _  |
 
 :sloth: Chongus
-:moai: Sigma
+:moyai: Sigma
 :speaking_head: Yapper
 :rocket: Speedrun
 
