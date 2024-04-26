@@ -5,7 +5,7 @@ R.I.P.
 
 My Mental Health
 
-MMIV - GRA
+&ast; MMIV ✝ GRA
 </kbd></div>
 
 # grabstein
