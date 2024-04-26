@@ -27,7 +27,7 @@ are graded and my opinion.
 | Icon | Category | Descrption |
 |---|---|---|
 | :sloth: | Chongus | <ul><li>Straightforward implementation (boring)</li><li>Normal grading</li></ul> |
-| :moai: | Sigma | <ul><li>Time consuming, but quite interesring</li><li>Normal grading</li></ul> |
+| :moyai: | Sigma | <ul><li>Time consuming, but quite interesring</li><li>Normal grading</li></ul> |
 | :speaking_head: | Yapper | <ul><li>Boring, but brainfuck</li><li>Performance grading</li></ul> |
 | :rocket: | Speedrun | <ul><li>Current objective: survive</li><li>Performance grading</li></ul> |
 
