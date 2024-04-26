@@ -88,7 +88,7 @@ for n in range(2 ** bits):
   else:
     max_lookup.append(mins(max_idxs[gmx]))
 
-print(f"Total of {func_index + max_index} different setups for {bits} bits and {steps} steps")
+print(f"Total of {func_index + max_index} different setups for {bits} bits")
 
 print("Writing...")
 
