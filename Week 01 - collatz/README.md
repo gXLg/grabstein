@@ -34,7 +34,10 @@ Of course, the downside of such a lookup
 table, is that it tends to grow exponentially.
 
 Here are some sizes I've tried out:
-|--|--|
-| 16 bits | 7kB |
-| 20 bits | 8MB |
-| 22 bits | 21MB |
+| Bits | Size | Time |
+|--|--|--|
+| 16 | 7kB | ~30s |
+| 20 | 8MB | ~2min |
+| 22 | 21MB | ~10min |
+
+Generated on Cortex A78.
