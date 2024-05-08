@@ -2,4 +2,4 @@
 
 | Category | Available points (Bonus) | Best result |
 |---|---|---|
-| :sloth: Chongus | 5  | 5pts  |
+| :sloth: Chongus | 5 | 5pts |

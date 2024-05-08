@@ -2,7 +2,7 @@
 
 | Category | Available points (Bonus) | Best result |
 |---|---|---|
-| :rocket: Speedrun | 5 (1)  | 6pts - 26.29ns |
+| :rocket: Speedrun | 5 (1)  | 6pts - 26.29 ns |
 
 # Explanation
 In order to calculate Collatz numbers efficiently

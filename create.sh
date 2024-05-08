@@ -5,7 +5,7 @@ cat <<EOF > "$1/README.md"
 
 | Category | Available points (Bonus) | Best result |
 |---|---|---|
-| _ | _  | _ - _  |
+| _ | _ | _ - _ |
 
 :sloth: Chongus
 :moyai: Sigma
