@@ -244,7 +244,7 @@ int brainfuck(struct BFState* state, const char* program) {
 //  for (int i = 0; final_code[i]; i++) {
 //    printf("(%d) \t", i);
 //    if (final_code[i] == LOOP) {
-//      printf("o: %d lx: %hd rx: %hd\n", final_code[i], args_loop[i][0], args_loop[i][1]);
+//      printf("o: %d x: %hd\n", final_code[i], args_loop2[i][0]);
 //    } else {
 //      printf("o: %d a: %hd g: %hu j: %lu c: %hd\n", final_code[i], args_add[i], args_go[i], args_jmp[i] - final_code, args_cmp[i]);
 //    }
